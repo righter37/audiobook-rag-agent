@@ -2,6 +2,8 @@ github格式的readme需要md格式，这个是用仓库里的plain2txt实现的
 # audiobook-rag-agent
 
 基于 KIMI API 的全流程听书 Agent。输入书名（或模糊信息如历史类书籍），自动搜索、下载电子书，TTS 朗读（支持GPT-Sovits），并支持对书籍内容进行 RAG 问答。
+<img width="1642" height="921" alt="image" src="https://github.com/user-attachments/assets/9ee83b74-8b06-45ff-ac7b-0a198829498f" />
+<img width="1646" height="924" alt="image" src="https://github.com/user-attachments/assets/e8ea457c-dc38-4d30-9e0c-4e7e1b53120f" />
 
 ## 功能
 
@@ -17,7 +19,7 @@ github格式的readme需要md格式，这个是用仓库里的plain2txt实现的
 <img width="1885" height="972" alt="image" src="https://github.com/user-attachments/assets/137cd045-63d0-4f0a-819f-22816bb88121" />
 
 - 例2
-- <img width="1903" height="702" alt="image" src="https://github.com/user-attachments/assets/0050dd29-a0bf-412a-ae5f-5dbd27e8caaa" />
+<img width="1903" height="702" alt="image" src="https://github.com/user-attachments/assets/0050dd29-a0bf-412a-ae5f-5dbd27e8caaa" />
 <img width="1701" height="970" alt="image" src="https://github.com/user-attachments/assets/8e1deac0-092f-48b1-abb6-1d0cfebd9787" />
 <img width="1914" height="367" alt="image" src="https://github.com/user-attachments/assets/7987c2af-c5fb-429a-83f1-c27de8e0f349" />
 <img width="1921" height="1065" alt="image" src="https://github.com/user-attachments/assets/920f906f-98b4-4504-b568-5543bdcb0dee" />
